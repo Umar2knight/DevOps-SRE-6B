@@ -12,5 +12,3 @@ jobs:
     steps:
       - name: Say Hello
         run: echo "CI pipeline is working!"
-
-Add basic CI pipeline
